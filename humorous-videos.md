@@ -6,4 +6,5 @@
 * [Interviews with developers...](https://www.youtube.com/channel/UCi8C7TNs2ohrc6hnRQ5Sn2w/videos)
 	* [Interview with Senior JS Developer in 2022](https://www.youtube.com/watch?v=Uo3cL4nrGOk)
 	* [Interview with a Senior C# Developer in 2022](https://www.youtube.com/watch?v=bXzTXD_OJo0)
+	* Interview with an Agile coach - [Sprint 1](https://youtu.be/bB340S0tGf8), [Sprint 2](https://youtu.be/A-H-xZ5ZXgo)
 * A serious one about **resources** - [Ernie arranges Bert's cookies](https://www.youtube.com/watch?v=Y8sNT-VFCow)
