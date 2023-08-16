@@ -9,3 +9,4 @@
 	* Interview with an Agile coach - [Sprint 1](https://youtu.be/bB340S0tGf8), [Sprint 2](https://youtu.be/A-H-xZ5ZXgo)
 * A serious one about **resources** - [Ernie arranges Bert's cookies](https://www.youtube.com/watch?v=Y8sNT-VFCow)
 * [Stuff](https://youtu.be/MvgN5gCuLac)
+* [KRAZAM](https://www.youtube.com/watch?v=y8OnoxKotPQ)
