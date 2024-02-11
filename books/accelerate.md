@@ -1,5 +1,5 @@
 # Accelerate - Building and Scaling High Performing Technology Organizations
-### by Nicole Forsgren PhD, Jez Humble, and Gene Kim
+### Nicole Forsgren PhD, Jez Humble, and Gene Kim
 
 
 ## Message
